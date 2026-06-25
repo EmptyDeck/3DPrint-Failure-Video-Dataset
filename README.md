@@ -173,6 +173,46 @@ n_normal_baseline, n_gt_masks, video_url`.
 
 ---
 
+
+### Table 5: Printer 1 (P1) sequences.
+| # | Sequence | Class | Filament | GT onset | Frames | Duration | Video |
+|---|---|---|---|---|---|---|---|
+| 1 | BlackMoai | total | Black | 7,102 | 8,605 | 2:23:25 | [link](https://studio.youtube.com/video/W2963ticEZo/edit) |
+| 2 | BlackEarly | total | Black | 312 | 1,207 | 0:20:07 | [link](https://studio.youtube.com/video/taTnJqpeyy8/edit) |
+| 3 | BlackWobbly | total | Black | 5,996 | 7,814 | 2:10:14 | [link](https://studio.youtube.com/video/HxTdSpaH_RE/edit) |
+| 4 | BlueHourse | total | Blue | 3,047 | 4,521 | 1:15:21 | [link](https://studio.youtube.com/video/b25_jGjq5Gc/edit) |
+| 5 | BlueMonk | total | Blue | 5,711 | 7,692 | 2:08:12 | [link](https://studio.youtube.com/video/BNl6REl02ds/edit) |
+| 6 | GreenStele | total | Green | 6,345 | 10,780 | 2:59:40 | [link](https://studio.youtube.com/video/bWDSVGpvhnA/edit) |
+| 7 | OrangeStatue | total | Orange | 5,576 | 7,012 | 1:56:52 | [link](https://studio.youtube.com/video/FPPAfLWzGD8/edit) |
+| 8 | PinkMan | partial | Pink | 7,939 | 17,473 | 4:51:13 | [link](https://studio.youtube.com/video/999h67bA4y8/edit) |
+| 9 | PinkNetriti | total | Pink | 49 | 270 | 0:04:30 | [link](https://studio.youtube.com/video/nx7Wy4spvGM/edit) |
+| 10 | RedHeart | partial | Red | 7,165 | 12,247 | 3:24:07 | [link](https://studio.youtube.com/video/_q4e_La8g0o/edit) |
+| 11 | WhiteBoat | total | White | 3,991 | 4,309 | 1:11:49 | [link](https://studio.youtube.com/video/JffmkMIF19Y/edit) |
+| 12 | WhiteBust | partial | White | 3,369 | 24,540 | 6:49:00 | [link](https://studio.youtube.com/video/VAGzzLmlb7U/edit) |
+| 13 | WhiteHorseback | partial | White | 262 | 4,721 | 1:18:41 | [link](https://studio.youtube.com/video/qI8mrMG_b6c/edit) |
+| 14 | WhiteNeitiri_SupportFail | partial | White | 1,865 | 2,140 | 0:35:40 | [link](https://studio.youtube.com/video/VExVZWvFF10/edit) |
+| 15 | WhiteNetiri_Fallover | total | White | 11,349 | 12,930 | 3:35:30 | [link](https://studio.youtube.com/video/CEvUcRfbqXA/edit) |
+| 16 | WhiteTotem | total | White | 5,464 | 5,889 | 1:38:09 | [link](https://studio.youtube.com/video/m59O44l9enQ/edit) |
+| 17 | YellowArch | total | Yellow | 3,468 | 5,692 | 1:34:52 | [link](https://studio.youtube.com/video/Ct2AWmoVqMM/edit) |
+| 18 | YellowCat | total | Yellow | 4,742 | 6,660 | 1:51:00 | [link](https://studio.youtube.com/video/3b5pAcPPrbY/edit) |
+| 19 | YellowEarly | total | Yellow | 120 | 391 | 0:06:31 | [link](https://studio.youtube.com/video/Y8H8eqtemuk/edit) |
+| 20 | YellowOval | total | Yellow | 2,994 | 4,232 | 1:10:32 | [link](https://studio.youtube.com/video/ZrdwVO4hkeM/edit) |
+
+### Table 6: Printer 2 (P2) sequences.
+| # | Sequence | Class | Filament | GT onset | Frames | Duration | Video |
+|---|---|---|---|---|---|---|---|
+| 1 | P2BlackFrancesco | total | Black | 2,876 | 3,417 | 0:56:57 | [link](https://studio.youtube.com/video/5fsWtZojF-Y/edit) |
+| 2 | P2BlueDragon | total | Blue | 9,459 | 22,116 | 6:08:36 | [link](https://studio.youtube.com/video/rvMWvzjMvtk/edit) |
+| 3 | P2BrownAugustus | total | Brown | 6,284 | 12,339 | 3:25:39 | [link](https://studio.youtube.com/video/AA3iuMIcqDc/edit) |
+| 4 | P2BrownBridge | partial | Brown | 15,161 | 19,923 | 5:32:03 | [link](https://studio.youtube.com/video/5M3vAJmBax0/edit) |
+| 5 | P2GreenCase | total | Green | 688 | 3,816 | 1:03:36 | [link](https://studio.youtube.com/video/2W89W9iIUHE/edit) |
+| 6 | P2GreenSkull | total | Green | 460 | 1,166 | 0:19:26 | [link](https://studio.youtube.com/video/qY3hdkYXUBs/edit) |
+| 7 | P2OrageLion | total | Orange | 14,522 | 28,944 | 8:02:24 | [link](https://studio.youtube.com/video/COSv5l2HBA8/edit) |
+| 8 | P2PinkPenholder | total | Pink | 1,862 | 6,780 | 1:53:00 | [link](https://studio.youtube.com/video/yvP0AR7iDeQ/edit) |
+| 9 | P2RedSkull | total | Red | 317 | 741 | 0:12:21 | [link](https://studio.youtube.com/video/X-NGUAAV_uc/edit) |
+| 10 | P2RedVase | total | Red | 10,146 | 13,216 | 3:40:16 | [link](https://studio.youtube.com/video/iQfYi_LWP24/edit) |
+
+
 ## License & citation
 
 Annotations and metadata in this repository are released for research use. Video
