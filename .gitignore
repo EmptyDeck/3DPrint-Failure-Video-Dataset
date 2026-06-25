@@ -1,0 +1,10 @@
+# Block raw video and bulky derived caches only.
+# (GT masks, overlays, and the per-mask source frames ARE tracked.)
+*.mp4
+*.mov
+*.avi
+delta_cache/
+*_masks.npz
+.color_cache_hue.npz
+__pycache__/
+*.pyc

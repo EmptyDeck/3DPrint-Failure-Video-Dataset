@@ -1,0 +1,23 @@
+{
+  "sequence": "WhiteBust",
+  "frame_indices": [
+    0,
+    374,
+    748,
+    1123,
+    1497,
+    1871,
+    2245,
+    2620,
+    2994,
+    3368
+  ],
+  "n_masks": 10,
+  "resolution": "1024x768",
+  "files_per_frame": {
+    "frame_XXXXXX.png": "binary GT mask, uint8, 255=object 0=background",
+    "frame_XXXXXX_mask.npz": "same mask as bool array, np.load(f)['mask']",
+    "frame_XXXXXX_overlay.png": "mask overlaid on the source frame (visualization)",
+    "frame_XXXXXX_frame.jpg": "the source video frame at this index"
+  }
+}

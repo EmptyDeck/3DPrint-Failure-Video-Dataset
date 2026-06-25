@@ -1,0 +1,23 @@
+{
+  "sequence": "P2BlueDragon",
+  "frame_indices": [
+    0,
+    1051,
+    2102,
+    3153,
+    4204,
+    5254,
+    6305,
+    7356,
+    8407,
+    9458
+  ],
+  "n_masks": 10,
+  "resolution": "1920x1080",
+  "files_per_frame": {
+    "frame_XXXXXX.png": "binary GT mask, uint8, 255=object 0=background",
+    "frame_XXXXXX_mask.npz": "same mask as bool array, np.load(f)['mask']",
+    "frame_XXXXXX_overlay.png": "mask overlaid on the source frame (visualization)",
+    "frame_XXXXXX_frame.jpg": "the source video frame at this index"
+  }
+}

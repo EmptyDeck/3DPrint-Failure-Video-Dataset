@@ -1,0 +1,23 @@
+{
+  "sequence": "BlackFrancesco",
+  "frame_indices": [
+    0,
+    319,
+    639,
+    958,
+    1278,
+    1597,
+    1917,
+    2236,
+    2556,
+    2875
+  ],
+  "n_masks": 10,
+  "resolution": "1920x1080",
+  "files_per_frame": {
+    "frame_XXXXXX.png": "binary GT mask, uint8, 255=object 0=background",
+    "frame_XXXXXX_mask.npz": "same mask as bool array, np.load(f)['mask']",
+    "frame_XXXXXX_overlay.png": "mask overlaid on the source frame (visualization)",
+    "frame_XXXXXX_frame.jpg": "the source video frame at this index"
+  }
+}

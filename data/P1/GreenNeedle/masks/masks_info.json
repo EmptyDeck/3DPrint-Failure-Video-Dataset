@@ -1,0 +1,23 @@
+{
+  "sequence": "GreenNeedle",
+  "frame_indices": [
+    0,
+    705,
+    1410,
+    2115,
+    2820,
+    3524,
+    4229,
+    4934,
+    5639,
+    6344
+  ],
+  "n_masks": 10,
+  "resolution": "1024x768",
+  "files_per_frame": {
+    "frame_XXXXXX.png": "binary GT mask, uint8, 255=object 0=background",
+    "frame_XXXXXX_mask.npz": "same mask as bool array, np.load(f)['mask']",
+    "frame_XXXXXX_overlay.png": "mask overlaid on the source frame (visualization)",
+    "frame_XXXXXX_frame.jpg": "the source video frame at this index"
+  }
+}

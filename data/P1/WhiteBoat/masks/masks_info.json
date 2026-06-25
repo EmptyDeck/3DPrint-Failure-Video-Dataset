@@ -1,0 +1,23 @@
+{
+  "sequence": "WhiteBoat",
+  "frame_indices": [
+    0,
+    443,
+    887,
+    1330,
+    1773,
+    2217,
+    2660,
+    3103,
+    3547,
+    3990
+  ],
+  "n_masks": 10,
+  "resolution": "1024x768",
+  "files_per_frame": {
+    "frame_XXXXXX.png": "binary GT mask, uint8, 255=object 0=background",
+    "frame_XXXXXX_mask.npz": "same mask as bool array, np.load(f)['mask']",
+    "frame_XXXXXX_overlay.png": "mask overlaid on the source frame (visualization)",
+    "frame_XXXXXX_frame.jpg": "the source video frame at this index"
+  }
+}
