@@ -1,0 +1,122 @@
+{
+  "BlackMoai": {
+    "failure_class": "total",
+    "color": "black"
+  },
+  "BlackTilt_noz": {
+    "failure_class": "total",
+    "color": "black"
+  },
+  "BlackWobbly": {
+    "failure_class": "total",
+    "color": "black"
+  },
+  "BlueHourse": {
+    "failure_class": "total",
+    "color": "blue"
+  },
+  "BlueMonk": {
+    "failure_class": "total",
+    "color": "blue"
+  },
+  "GreenNeedle": {
+    "failure_class": "total",
+    "color": "green"
+  },
+  "OrangeLibery": {
+    "failure_class": "total",
+    "color": "orange"
+  },
+  "PinkMan": {
+    "failure_class": "partial",
+    "color": "pink"
+  },
+  "PinkNetriti_Early": {
+    "failure_class": "total",
+    "color": "pink"
+  },
+  "RedHeart": {
+    "failure_class": "partial",
+    "color": "red"
+  },
+  "WhiteBoat": {
+    "failure_class": "total",
+    "color": "white"
+  },
+  "WhiteBust": {
+    "failure_class": "partial",
+    "color": "white"
+  },
+  "WhiteHorseback": {
+    "failure_class": "partial",
+    "color": "white"
+  },
+  "WhiteNeitiri_SupportFail": {
+    "failure_class": "partial",
+    "color": "white"
+  },
+  "WhiteNetiri_Fallover": {
+    "failure_class": "total",
+    "color": "white"
+  },
+  "WhiteTotem": {
+    "failure_class": "total",
+    "color": "white"
+  },
+  "YellowArch": {
+    "failure_class": "total",
+    "color": "yellow"
+  },
+  "YellowCat": {
+    "failure_class": "total",
+    "color": "yellow"
+  },
+  "YellowEarly": {
+    "failure_class": "total",
+    "color": "yellow"
+  },
+  "YellowOval_still": {
+    "failure_class": "total",
+    "color": "yellow"
+  },
+  "BlackFrancesco": {
+    "failure_class": "total",
+    "color": "black"
+  },
+  "BrownAugustus": {
+    "failure_class": "total",
+    "color": "brown"
+  },
+  "GreenCase": {
+    "failure_class": "total",
+    "color": "green"
+  },
+  "GreenSkullEarly": {
+    "failure_class": "total",
+    "color": "green"
+  },
+  "P2BlueDragon": {
+    "failure_class": "total",
+    "color": "blue"
+  },
+  "P2BrownBridge": {
+    "failure_class": "partial",
+    "color": "brown"
+  },
+  "P2OrageLion": {
+    "failure_class": "total",
+    "color": "orange"
+  },
+  "P2RedVase": {
+    "failure_class": "total",
+    "color": "red"
+  },
+  "PinkPenholder": {
+    "failure_class": "total",
+    "color": "pink"
+  },
+  "RedSkullEarly": {
+    "failure_class": "total",
+    "color": "red"
+  }
+}
